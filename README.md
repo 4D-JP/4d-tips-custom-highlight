@@ -29,6 +29,8 @@
 
 16R2では，__リストボックス__のハイライト表示そのものをオフにすることができるようになりました。（``LISTBOX SET PROPERTY``+``lk hide selection highlight``）
 
+http://doc.4d.com/4Dv16R2/4D/16-R2.1620/LISTBOX-SET-PROPERTY.301-3125266.ja.html
+
 ハイライト表示をオフにすることにより，選択された行に任意のハイライトカラーを適用することができます。
 
 http://blog.4d.com/listbox-more-programming-possibilities/
