@@ -1,7 +1,7 @@
 # 4d-tips-custom-highlight
 リストフォームのハイライトカラーをカスタマイズする簡単な例題
 
-出来上がりのイメージ
+###出来上がりのイメージ
 
 <img width="576" alt="c" src="https://cloud.githubusercontent.com/assets/10509075/23646839/065337f0-0356-11e7-9aea-2a21956506e2.png">
 
